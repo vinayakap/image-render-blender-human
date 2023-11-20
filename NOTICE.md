@@ -34,3 +34,6 @@ organization's name, optionally also the contributor's name:
 
 - Robert Bosch GmbH
     - Christian Perwass <christian.perwass@de.bosch.com> [E03AF9687DD8D75C]
+
+- Bosch Global Software Technologies
+    - Vinayaka Pattanashetti <pattanashetti.vinayakabasavaraj@in.bosch.com> [D8F50C850D179459]
